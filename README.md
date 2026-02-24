@@ -1,3 +1,6 @@
+<img width="1292" height="917" alt="image" src="https://github.com/user-attachments/assets/b6194ff5-53e7-4ad4-93f3-328b6ccc8074" />
+
+
 # Frontend Interview Assignment
 
 ## Assignment: Joke Browser with Favourites
