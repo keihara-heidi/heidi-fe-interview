@@ -19,7 +19,6 @@ Build a React component that fetches a list of jokes from an API, displays them 
   ```
   GET https://official-joke-api.appspot.com/random_ten
   ```
-- Handle loading and error states appropriately.
 
 #### 2. Displaying Jokes
 
@@ -59,11 +58,8 @@ Build a React component that fetches a list of jokes from an API, displays them 
 ---
 
 ### What we're looking for
-
 - Clean, readable code structure
 - Effective use of React state and props
-- Thoughtful UI/UX decisions
-- Handling of edge cases (loading, errors, duplicates, empty states)
 
 Good luck!
 
